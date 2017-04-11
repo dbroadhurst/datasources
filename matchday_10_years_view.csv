@@ -1,0 +1,1001 @@
+"id","date","home_name","home_score","away_name","away_score","league","year"
+1,"2013-05-19","Chelsea",2,"Everton",1,"english-premier-league",2012
+2,"2013-05-19","West Bromwich Albion",5,"Manchester United",5,"english-premier-league",2012
+3,"2013-05-19","Swansea City",0,"Fulham",3,"english-premier-league",2012
+4,"2013-05-19","Southampton",1,"Stoke City",1,"english-premier-league",2012
+5,"2013-05-19","Manchester City",2,"Norwich City",3,"english-premier-league",2012
+6,"2013-05-19","Tottenham Hotspur",1,"Sunderland",0,"english-premier-league",2012
+7,"2013-05-19","Liverpool",1,"Queens Park Rangers",0,"english-premier-league",2012
+8,"2013-05-19","Newcastle United",0,"Arsenal",1,"english-premier-league",2012
+9,"2013-05-19","West Ham United",4,"Reading",2,"english-premier-league",2012
+10,"2013-05-19","Wigan Athletic",2,"Aston Villa",2,"english-premier-league",2012
+11,"2013-05-14","Arsenal",4,"Wigan Athletic",1,"english-premier-league",2012
+12,"2013-05-12","Stoke City",1,"Tottenham Hotspur",2,"english-premier-league",2012
+13,"2013-05-12","Fulham",1,"Liverpool",3,"english-premier-league",2012
+14,"2013-05-12","Norwich City",4,"West Bromwich Albion",0,"english-premier-league",2012
+15,"2013-05-12","Sunderland",1,"Southampton",1,"english-premier-league",2012
+16,"2013-05-12","Everton",2,"West Ham United",0,"english-premier-league",2012
+17,"2013-05-14","Reading",0,"Manchester City",2,"english-premier-league",2012
+18,"2013-05-12","Queens Park Rangers",1,"Newcastle United",2,"english-premier-league",2012
+19,"2013-05-12","Manchester United",2,"Swansea City",1,"english-premier-league",2012
+20,"2013-05-11","Aston Villa",1,"Chelsea",2,"english-premier-league",2012
+21,"2013-05-08","Chelsea",2,"Tottenham Hotspur",2,"english-premier-league",2012
+22,"2013-05-07","Manchester City",1,"West Bromwich Albion",0,"english-premier-league",2012
+23,"2013-05-04","Fulham",2,"Reading",4,"english-premier-league",2012
+24,"2013-05-06","Sunderland",1,"Stoke City",1,"english-premier-league",2012
+25,"2013-05-05","Liverpool",0,"Everton",0,"english-premier-league",2012
+26,"2013-05-07","Wigan Athletic",2,"Swansea City",3,"english-premier-league",2012
+27,"2013-05-04","Norwich City",1,"Aston Villa",2,"english-premier-league",2012
+28,"2013-05-05","Manchester United",0,"Chelsea",1,"english-premier-league",2012
+29,"2013-05-04","Swansea City",0,"Manchester City",0,"english-premier-league",2012
+30,"2013-05-04","West Bromwich Albion",2,"Wigan Athletic",3,"english-premier-league",2012
+31,"2013-05-04","Tottenham Hotspur",1,"Southampton",0,"english-premier-league",2012
+32,"2013-05-04","West Ham United",0,"Newcastle United",0,"english-premier-league",2012
+33,"2013-05-04","Queens Park Rangers",0,"Arsenal",1,"english-premier-league",2012
+34,"2013-04-28","Chelsea",2,"Swansea City",0,"english-premier-league",2012
+35,"2013-04-29","Aston Villa",6,"Sunderland",1,"english-premier-league",2012
+36,"2013-04-28","Reading",0,"Queens Park Rangers",0,"english-premier-league",2012
+37,"2013-04-27","Manchester City",2,"West Ham United",1,"english-premier-league",2012
+38,"2013-04-28","Arsenal",1,"Manchester United",1,"english-premier-league",2012
+39,"2013-04-27","Stoke City",1,"Norwich City",0,"english-premier-league",2012
+40,"2013-04-27","Southampton",0,"West Bromwich Albion",3,"english-premier-league",2012
+41,"2013-04-27","Everton",1,"Fulham",0,"english-premier-league",2012
+42,"2013-04-27","Wigan Athletic",2,"Tottenham Hotspur",2,"english-premier-league",2012
+43,"2013-04-27","Newcastle United",0,"Liverpool",6,"english-premier-league",2012
+44,"2013-04-21","Liverpool",2,"Chelsea",2,"english-premier-league",2012
+45,"2013-04-20","Fulham",0,"Arsenal",1,"english-premier-league",2012
+46,"2013-04-21","Tottenham Hotspur",3,"Manchester City",1,"english-premier-league",2012
+47,"2013-04-22","Manchester United",3,"Aston Villa",0,"english-premier-league",2012
+48,"2013-04-20","Norwich City",2,"Reading",1,"english-premier-league",2012
+49,"2013-04-20","Queens Park Rangers",0,"Stoke City",2,"english-premier-league",2012
+50,"2013-04-20","Sunderland",1,"Everton",0,"english-premier-league",2012
+51,"2013-04-20","Swansea City",0,"Southampton",0,"english-premier-league",2012
+52,"2013-04-20","West Bromwich Albion",1,"Newcastle United",1,"english-premier-league",2012
+53,"2013-04-20","West Ham United",2,"Wigan Athletic",0,"english-premier-league",2012
+54,"2013-04-17","Manchester City",1,"Wigan Athletic",0,"english-premier-league",2012
+55,"2013-04-16","Arsenal",0,"Everton",0,"english-premier-league",2012
+56,"2013-04-17","West Ham United",2,"Manchester United",2,"english-premier-league",2012
+57,"2013-04-14","Stoke City",0,"Manchester United",2,"english-premier-league",2012
+58,"2013-04-17","Fulham",0,"Chelsea",3,"english-premier-league",2012
+59,"2013-04-14","Newcastle United",0,"Sunderland",3,"english-premier-league",2012
+60,"2013-04-13","Aston Villa",1,"Fulham",1,"english-premier-league",2012
+61,"2013-04-13","Arsenal",3,"Norwich City",1,"english-premier-league",2012
+62,"2013-04-13","Everton",2,"Queens Park Rangers",0,"english-premier-league",2012
+63,"2013-04-13","Reading",0,"Liverpool",0,"english-premier-league",2012
+64,"2013-04-13","Southampton",1,"West Ham United",1,"english-premier-league",2012
+65,"2013-04-08","Manchester United",1,"Manchester City",2,"english-premier-league",2012
+66,"2013-04-07","Chelsea",2,"Sunderland",1,"english-premier-league",2012
+67,"2013-04-07","Liverpool",0,"West Ham United",0,"english-premier-league",2012
+68,"2013-04-07","Tottenham Hotspur",2,"Everton",2,"english-premier-league",2012
+69,"2013-04-07","Newcastle United",1,"Fulham",0,"english-premier-league",2012
+70,"2013-04-06","Norwich City",2,"Swansea City",2,"english-premier-league",2012
+71,"2013-04-07","Queens Park Rangers",1,"Wigan Athletic",1,"english-premier-league",2012
+72,"2013-04-06","Reading",0,"Southampton",2,"english-premier-league",2012
+73,"2013-04-06","Stoke City",1,"Aston Villa",3,"english-premier-league",2012
+74,"2013-04-06","West Bromwich Albion",1,"Arsenal",2,"english-premier-league",2012
+75,"2013-04-01","Fulham",3,"Queens Park Rangers",2,"english-premier-league",2012
+76,"2013-03-31","Aston Villa",1,"Liverpool",2,"english-premier-league",2012
+77,"2013-03-30","Arsenal",4,"Reading",1,"english-premier-league",2012
+78,"2013-03-30","Sunderland",0,"Manchester United",1,"english-premier-league",2012
+79,"2013-03-30","Manchester City",4,"Newcastle United",0,"english-premier-league",2012
+80,"2013-03-30","West Ham United",3,"West Bromwich Albion",1,"english-premier-league",2012
+81,"2013-03-30","Southampton",2,"Chelsea",1,"english-premier-league",2012
+82,"2013-03-30","Swansea City",1,"Tottenham Hotspur",2,"english-premier-league",2012
+83,"2013-03-30","Wigan Athletic",1,"Norwich City",0,"english-premier-league",2012
+84,"2013-03-30","Everton",1,"Stoke City",0,"english-premier-league",2012
+85,"2013-03-17","Sunderland",1,"Norwich City",1,"english-premier-league",2012
+86,"2013-03-17","Tottenham Hotspur",0,"Fulham",1,"english-premier-league",2012
+87,"2013-03-16","Aston Villa",3,"Queens Park Rangers",2,"english-premier-league",2012
+88,"2013-03-17","Chelsea",2,"West Ham United",0,"english-premier-league",2012
+89,"2013-03-16","Swansea City",0,"Arsenal",2,"english-premier-league",2012
+90,"2013-03-16","Stoke City",0,"West Bromwich Albion",0,"english-premier-league",2012
+91,"2013-03-17","Wigan Athletic",2,"Newcastle United",1,"english-premier-league",2012
+92,"2013-03-16","Everton",2,"Manchester City",0,"english-premier-league",2012
+93,"2013-03-16","Southampton",3,"Liverpool",1,"english-premier-league",2012
+94,"2013-03-16","Manchester United",1,"Reading",0,"english-premier-league",2012
+95,"2013-03-10","Newcastle United",2,"Stoke City",1,"english-premier-league",2012
+96,"2013-03-10","Liverpool",3,"Tottenham Hotspur",2,"english-premier-league",2012
+97,"2013-03-09","Queens Park Rangers",3,"Sunderland",1,"english-premier-league",2012
+98,"2013-03-02","Chelsea",1,"West Bromwich Albion",0,"english-premier-league",2012
+99,"2013-03-03","Tottenham Hotspur",2,"Arsenal",1,"english-premier-league",2012
+100,"2013-03-09","West Bromwich Albion",2,"Swansea City",1,"english-premier-league",2012
+101,"2013-03-04","Aston Villa",0,"Manchester City",1,"english-premier-league",2012
+102,"2013-03-09","Reading",1,"Aston Villa",2,"english-premier-league",2012
+103,"2013-03-09","Norwich City",0,"Southampton",0,"english-premier-league",2012
+104,"2013-03-02","Everton",3,"Reading",1,"english-premier-league",2012
+105,"2013-03-02","Manchester United",4,"Norwich City",0,"english-premier-league",2012
+106,"2013-03-02","Southampton",1,"Queens Park Rangers",2,"english-premier-league",2012
+107,"2013-02-24","Newcastle United",4,"Southampton",2,"english-premier-league",2012
+108,"2013-02-24","Manchester City",2,"Chelsea",0,"english-premier-league",2012
+109,"2013-03-02","Swansea City",1,"Newcastle United",0,"english-premier-league",2012
+110,"2013-03-02","Wigan Athletic",0,"Liverpool",4,"english-premier-league",2012
+111,"2013-03-02","Sunderland",2,"Fulham",2,"english-premier-league",2012
+112,"2013-03-02","Stoke City",0,"West Ham United",1,"english-premier-league",2012
+113,"2013-02-25","West Ham United",2,"Tottenham Hotspur",3,"english-premier-league",2012
+114,"2013-02-23","Fulham",1,"Stoke City",0,"english-premier-league",2012
+115,"2013-02-23","Arsenal",2,"Aston Villa",1,"english-premier-league",2012
+116,"2013-02-23","Queens Park Rangers",0,"Manchester United",2,"english-premier-league",2012
+117,"2013-02-23","Norwich City",2,"Everton",1,"english-premier-league",2012
+118,"2013-02-23","Reading",0,"Wigan Athletic",3,"english-premier-league",2012
+119,"2013-02-23","West Bromwich Albion",2,"Sunderland",1,"english-premier-league",2012
+120,"2013-02-17","Liverpool",5,"Swansea City",0,"english-premier-league",2012
+121,"2013-02-11","Liverpool",0,"West Bromwich Albion",2,"english-premier-league",2012
+122,"2013-02-10","Aston Villa",2,"West Ham United",1,"english-premier-league",2012
+123,"2013-02-10","Manchester United",2,"Everton",0,"english-premier-league",2012
+124,"2013-02-09","Tottenham Hotspur",2,"Newcastle United",1,"english-premier-league",2012
+125,"2013-02-09","Stoke City",2,"Reading",1,"english-premier-league",2012
+126,"2013-02-09","Sunderland",0,"Arsenal",1,"english-premier-league",2012
+127,"2013-02-09","Norwich City",0,"Fulham",0,"english-premier-league",2012
+128,"2013-02-09","Chelsea",4,"Wigan Athletic",1,"english-premier-league",2012
+129,"2013-02-09","Southampton",3,"Manchester City",1,"english-premier-league",2012
+130,"2013-02-09","Swansea City",4,"Queens Park Rangers",1,"english-premier-league",2012
+131,"2013-02-03","West Bromwich Albion",0,"Tottenham Hotspur",1,"english-premier-league",2012
+132,"2013-02-02","Queens Park Rangers",0,"Norwich City",0,"english-premier-league",2012
+133,"2013-02-03","Manchester City",2,"Liverpool",2,"english-premier-league",2012
+134,"2013-02-02","Arsenal",1,"Stoke City",0,"english-premier-league",2012
+135,"2013-02-02","Everton",3,"Aston Villa",3,"english-premier-league",2012
+136,"2013-02-02","Reading",2,"Sunderland",1,"english-premier-league",2012
+137,"2013-02-02","Wigan Athletic",2,"Southampton",2,"english-premier-league",2012
+138,"2013-02-02","Newcastle United",3,"Chelsea",2,"english-premier-league",2012
+139,"2013-02-02","West Ham United",1,"Swansea City",0,"english-premier-league",2012
+140,"2013-02-02","Fulham",0,"Manchester United",1,"english-premier-league",2012
+141,"2013-01-30","Arsenal",2,"Liverpool",2,"english-premier-league",2012
+142,"2013-01-30","Everton",2,"West Bromwich Albion",1,"english-premier-league",2012
+143,"2013-01-30","Norwich City",1,"Tottenham Hotspur",1,"english-premier-league",2012
+144,"2013-01-30","Fulham",3,"West Ham United",1,"english-premier-league",2012
+145,"2013-01-29","Stoke City",2,"Wigan Athletic",2,"english-premier-league",2012
+146,"2013-01-30","Reading",2,"Chelsea",2,"english-premier-league",2012
+147,"2013-01-30","Manchester United",2,"Southampton",1,"english-premier-league",2012
+148,"2013-01-29","Queens Park Rangers",0,"Manchester City",0,"english-premier-league",2012
+149,"2013-01-29","Aston Villa",1,"Newcastle United",2,"english-premier-league",2012
+150,"2013-01-29","Sunderland",0,"Swansea City",0,"english-premier-league",2012
+151,"2013-01-23","Arsenal",5,"West Ham United",1,"english-premier-league",2012
+152,"2013-01-21","Southampton",0,"Everton",0,"english-premier-league",2012
+153,"2013-01-20","Chelsea",2,"Arsenal",1,"english-premier-league",2012
+154,"2013-01-20","Tottenham Hotspur",1,"Manchester United",1,"english-premier-league",2012
+155,"2013-01-19","Liverpool",5,"Norwich City",0,"english-premier-league",2012
+156,"2013-01-19","Newcastle United",1,"Reading",2,"english-premier-league",2012
+157,"2013-01-19","Manchester City",2,"Fulham",0,"english-premier-league",2012
+158,"2013-01-19","Swansea City",3,"Stoke City",1,"english-premier-league",2012
+159,"2013-01-19","Wigan Athletic",2,"Sunderland",3,"english-premier-league",2012
+160,"2013-01-19","West Bromwich Albion",2,"Aston Villa",2,"english-premier-league",2012
+161,"2013-01-19","West Ham United",1,"Queens Park Rangers",1,"english-premier-league",2012
+162,"2013-01-16","Chelsea",2,"Southampton",2,"english-premier-league",2012
+163,"2013-01-13","Manchester United",2,"Liverpool",1,"english-premier-league",2012
+164,"2013-01-13","Arsenal",0,"Manchester City",2,"english-premier-league",2012
+165,"2013-01-12","Queens Park Rangers",0,"Tottenham Hotspur",0,"english-premier-league",2012
+166,"2013-01-12","Aston Villa",0,"Southampton",1,"english-premier-league",2012
+167,"2013-01-12","Everton",0,"Swansea City",0,"english-premier-league",2012
+168,"2013-01-12","Fulham",1,"Wigan Athletic",1,"english-premier-league",2012
+169,"2013-01-12","Reading",3,"West Bromwich Albion",2,"english-premier-league",2012
+170,"2013-01-12","Norwich City",0,"Newcastle United",0,"english-premier-league",2012
+171,"2013-01-12","Stoke City",0,"Chelsea",4,"english-premier-league",2012
+172,"2013-01-02","Chelsea",0,"Queens Park Rangers",1,"english-premier-league",2012
+173,"2013-01-12","Sunderland",3,"West Ham United",0,"english-premier-league",2012
+174,"2013-01-02","Liverpool",3,"Sunderland",0,"english-premier-league",2012
+175,"2013-01-02","Newcastle United",1,"Everton",2,"english-premier-league",2012
+176,"2013-01-01","West Bromwich Albion",1,"Fulham",2,"english-premier-league",2012
+177,"2013-01-01","Manchester City",3,"Stoke City",0,"english-premier-league",2012
+178,"2013-01-01","Tottenham Hotspur",3,"Reading",1,"english-premier-league",2012
+179,"2013-01-01","West Ham United",2,"Norwich City",1,"english-premier-league",2012
+180,"2013-01-01","Swansea City",2,"Aston Villa",2,"english-premier-league",2012
+181,"2013-01-01","Wigan Athletic",0,"Manchester United",4,"english-premier-league",2012
+182,"2013-01-01","Southampton",1,"Arsenal",1,"english-premier-league",2012
+183,"2012-12-30","Everton",1,"Chelsea",2,"english-premier-league",2012
+184,"2012-12-30","Queens Park Rangers",0,"Liverpool",3,"english-premier-league",2012
+185,"2012-12-29","Sunderland",1,"Tottenham Hotspur",2,"english-premier-league",2012
+186,"2012-12-29","Aston Villa",0,"Wigan Athletic",3,"english-premier-league",2012
+187,"2012-12-29","Fulham",1,"Swansea City",2,"english-premier-league",2012
+188,"2012-12-29","Manchester United",2,"West Bromwich Albion",0,"english-premier-league",2012
+189,"2012-12-29","Reading",1,"West Ham United",0,"english-premier-league",2012
+190,"2012-12-29","Norwich City",3,"Manchester City",4,"english-premier-league",2012
+191,"2012-12-29","Stoke City",3,"Southampton",3,"english-premier-league",2012
+192,"2012-12-29","Arsenal",7,"Newcastle United",3,"english-premier-league",2012
+193,"2012-12-26","Fulham",1,"Southampton",1,"english-premier-league",2012
+194,"2012-12-26","Everton",2,"Wigan Athletic",1,"english-premier-league",2012
+195,"2012-12-26","Manchester United",4,"Newcastle United",3,"english-premier-league",2012
+196,"2012-12-26","Sunderland",1,"Manchester City",0,"english-premier-league",2012
+197,"2012-12-26","Queens Park Rangers",1,"West Bromwich Albion",2,"english-premier-league",2012
+198,"2012-12-26","Reading",0,"Swansea City",0,"english-premier-league",2012
+199,"2012-12-26","Aston Villa",0,"Tottenham Hotspur",4,"english-premier-league",2012
+200,"2012-12-26","Norwich City",0,"Chelsea",1,"english-premier-league",2012
+201,"2012-12-23","Swansea City",1,"Manchester United",1,"english-premier-league",2012
+202,"2012-12-26","Stoke City",3,"Liverpool",1,"english-premier-league",2012
+203,"2012-12-23","Chelsea",8,"Aston Villa",0,"english-premier-league",2012
+204,"2012-12-22","Wigan Athletic",0,"Arsenal",1,"english-premier-league",2012
+205,"2012-12-22","Manchester City",1,"Reading",0,"english-premier-league",2012
+206,"2012-12-22","Tottenham Hotspur",0,"Stoke City",0,"english-premier-league",2012
+207,"2012-12-22","Newcastle United",1,"Queens Park Rangers",0,"english-premier-league",2012
+208,"2012-12-22","Southampton",0,"Sunderland",1,"english-premier-league",2012
+209,"2012-12-22","West Ham United",1,"Everton",2,"english-premier-league",2012
+210,"2012-12-22","West Bromwich Albion",2,"Norwich City",1,"english-premier-league",2012
+211,"2012-12-17","Reading",2,"Arsenal",5,"english-premier-league",2012
+212,"2012-12-22","Liverpool",4,"Fulham",0,"english-premier-league",2012
+213,"2012-12-16","West Bromwich Albion",0,"West Ham United",0,"english-premier-league",2012
+214,"2012-12-16","Tottenham Hotspur",1,"Swansea City",0,"english-premier-league",2012
+215,"2012-12-15","Newcastle United",1,"Manchester City",3,"english-premier-league",2012
+216,"2012-12-15","Norwich City",2,"Wigan Athletic",1,"english-premier-league",2012
+217,"2012-12-15","Liverpool",1,"Aston Villa",3,"english-premier-league",2012
+218,"2012-12-15","Queens Park Rangers",2,"Fulham",1,"english-premier-league",2012
+219,"2012-12-15","Manchester United",3,"Sunderland",1,"english-premier-league",2012
+220,"2012-12-15","Stoke City",1,"Everton",1,"english-premier-league",2012
+221,"2012-12-11","Sunderland",3,"Reading",0,"english-premier-league",2012
+222,"2012-12-10","Fulham",2,"Newcastle United",1,"english-premier-league",2012
+223,"2012-12-09","Manchester City",2,"Manchester United",3,"english-premier-league",2012
+224,"2012-12-09","West Ham United",2,"Liverpool",3,"english-premier-league",2012
+225,"2012-12-09","Everton",2,"Tottenham Hotspur",1,"english-premier-league",2012
+226,"2012-12-08","Arsenal",2,"West Bromwich Albion",0,"english-premier-league",2012
+227,"2012-12-08","Southampton",1,"Reading",0,"english-premier-league",2012
+228,"2012-12-08","Sunderland",1,"Chelsea",3,"english-premier-league",2012
+229,"2012-12-08","Aston Villa",0,"Stoke City",0,"english-premier-league",2012
+230,"2012-12-08","Swansea City",3,"Norwich City",4,"english-premier-league",2012
+231,"2012-12-08","Wigan Athletic",2,"Queens Park Rangers",2,"english-premier-league",2012
+232,"2012-12-03","Newcastle United",3,"Wigan Athletic",0,"english-premier-league",2012
+233,"2012-12-02","Norwich City",2,"Sunderland",1,"english-premier-league",2012
+234,"2012-12-01","West Ham United",3,"Chelsea",1,"english-premier-league",2012
+235,"2012-12-01","Arsenal",0,"Swansea City",2,"english-premier-league",2012
+236,"2012-12-01","Fulham",0,"Tottenham Hotspur",3,"english-premier-league",2012
+237,"2012-12-01","Liverpool",1,"Southampton",0,"english-premier-league",2012
+238,"2012-12-01","Manchester City",1,"Everton",1,"english-premier-league",2012
+239,"2012-12-01","Reading",3,"Manchester United",4,"english-premier-league",2012
+240,"2012-12-01","Queens Park Rangers",1,"Aston Villa",1,"english-premier-league",2012
+241,"2012-11-28","Chelsea",0,"Fulham",0,"english-premier-league",2012
+242,"2012-12-01","West Bromwich Albion",0,"Stoke City",1,"english-premier-league",2012
+243,"2012-11-28","Everton",1,"Arsenal",1,"english-premier-league",2012
+244,"2012-11-28","Southampton",1,"Norwich City",1,"english-premier-league",2012
+245,"2012-11-28","Stoke City",2,"Newcastle United",1,"english-premier-league",2012
+246,"2012-11-28","Swansea City",3,"West Bromwich Albion",1,"english-premier-league",2012
+247,"2012-11-28","Manchester United",1,"West Ham United",0,"english-premier-league",2012
+248,"2012-11-28","Tottenham Hotspur",2,"Liverpool",1,"english-premier-league",2012
+249,"2012-11-28","Wigan Athletic",0,"Manchester City",2,"english-premier-league",2012
+250,"2012-11-27","Sunderland",0,"Queens Park Rangers",0,"english-premier-league",2012
+251,"2012-11-27","Aston Villa",1,"Reading",0,"english-premier-league",2012
+252,"2012-11-25","Swansea City",0,"Liverpool",0,"english-premier-league",2012
+253,"2012-11-25","Southampton",2,"Newcastle United",0,"english-premier-league",2012
+254,"2012-11-25","Chelsea",0,"Manchester City",0,"english-premier-league",2012
+255,"2012-11-25","Tottenham Hotspur",3,"West Ham United",1,"english-premier-league",2012
+256,"2012-11-24","Sunderland",2,"West Bromwich Albion",4,"english-premier-league",2012
+257,"2012-11-24","Everton",1,"Norwich City",1,"english-premier-league",2012
+258,"2012-11-24","Manchester United",3,"Queens Park Rangers",1,"english-premier-league",2012
+259,"2012-11-24","Stoke City",1,"Fulham",0,"english-premier-league",2012
+260,"2012-11-24","Wigan Athletic",3,"Reading",2,"english-premier-league",2012
+261,"2012-11-24","Aston Villa",0,"Arsenal",0,"english-premier-league",2012
+262,"2012-11-19","West Ham United",1,"Stoke City",1,"english-premier-league",2012
+263,"2012-11-18","Fulham",1,"Sunderland",3,"english-premier-league",2012
+264,"2012-11-17","Arsenal",5,"Tottenham Hotspur",2,"english-premier-league",2012
+265,"2012-11-17","Liverpool",3,"Wigan Athletic",0,"english-premier-league",2012
+266,"2012-11-17","Manchester City",5,"Aston Villa",0,"english-premier-league",2012
+267,"2012-11-17","Queens Park Rangers",1,"Southampton",3,"english-premier-league",2012
+268,"2012-11-17","Newcastle United",1,"Swansea City",2,"english-premier-league",2012
+269,"2012-11-17","Reading",2,"Everton",1,"english-premier-league",2012
+270,"2012-11-11","Newcastle United",0,"West Ham United",1,"english-premier-league",2012
+271,"2012-11-17","West Bromwich Albion",2,"Chelsea",1,"english-premier-league",2012
+272,"2012-11-17","Norwich City",1,"Manchester United",0,"english-premier-league",2012
+273,"2012-11-11","Manchester City",2,"Tottenham Hotspur",1,"english-premier-league",2012
+274,"2012-11-11","Chelsea",1,"Liverpool",1,"english-premier-league",2012
+275,"2012-11-10","Arsenal",3,"Fulham",3,"english-premier-league",2012
+276,"2012-11-10","Everton",2,"Sunderland",1,"english-premier-league",2012
+277,"2012-11-10","Reading",0,"Norwich City",0,"english-premier-league",2012
+278,"2012-11-10","Southampton",1,"Swansea City",1,"english-premier-league",2012
+279,"2012-11-10","Stoke City",1,"Queens Park Rangers",0,"english-premier-league",2012
+280,"2012-11-10","Wigan Athletic",1,"West Bromwich Albion",2,"english-premier-league",2012
+281,"2012-11-04","Queens Park Rangers",1,"Reading",1,"english-premier-league",2012
+282,"2012-11-05","West Bromwich Albion",2,"Southampton",0,"english-premier-league",2012
+283,"2012-11-10","Aston Villa",2,"Manchester United",3,"english-premier-league",2012
+284,"2012-11-03","Manchester United",2,"Arsenal",1,"english-premier-league",2012
+285,"2012-11-04","Liverpool",1,"Newcastle United",1,"english-premier-league",2012
+286,"2012-11-03","Sunderland",0,"Aston Villa",1,"english-premier-league",2012
+287,"2012-11-03","Fulham",2,"Everton",2,"english-premier-league",2012
+288,"2012-11-03","Norwich City",1,"Stoke City",0,"english-premier-league",2012
+289,"2012-11-03","Swansea City",1,"Chelsea",1,"english-premier-league",2012
+290,"2012-11-03","Tottenham Hotspur",0,"Wigan Athletic",1,"english-premier-league",2012
+291,"2012-10-28","Everton",2,"Liverpool",2,"english-premier-league",2012
+292,"2012-10-28","Newcastle United",2,"West Bromwich Albion",1,"english-premier-league",2012
+293,"2012-11-03","West Ham United",0,"Manchester City",0,"english-premier-league",2012
+294,"2012-10-28","Southampton",1,"Tottenham Hotspur",2,"english-premier-league",2012
+295,"2012-10-28","Chelsea",2,"Manchester United",3,"english-premier-league",2012
+296,"2012-10-27","Arsenal",1,"Queens Park Rangers",0,"english-premier-league",2012
+297,"2012-10-27","Reading",3,"Fulham",3,"english-premier-league",2012
+298,"2012-10-27","Aston Villa",1,"Norwich City",1,"english-premier-league",2012
+299,"2012-10-27","Stoke City",0,"Sunderland",0,"english-premier-league",2012
+300,"2012-10-27","Wigan Athletic",2,"West Ham United",1,"english-premier-league",2012
+301,"2012-10-27","Manchester City",1,"Swansea City",0,"english-premier-league",2012
+302,"2012-10-21","Sunderland",1,"Newcastle United",1,"english-premier-league",2012
+303,"2012-10-21","Queens Park Rangers",1,"Everton",1,"english-premier-league",2012
+304,"2012-10-20","Tottenham Hotspur",2,"Chelsea",4,"english-premier-league",2012
+305,"2012-10-20","Manchester United",4,"Stoke City",2,"english-premier-league",2012
+306,"2012-10-20","Liverpool",1,"Reading",0,"english-premier-league",2012
+307,"2012-10-20","Fulham",1,"Aston Villa",0,"english-premier-league",2012
+308,"2012-10-20","Swansea City",2,"Wigan Athletic",1,"english-premier-league",2012
+309,"2012-10-20","West Bromwich Albion",1,"Manchester City",2,"english-premier-league",2012
+310,"2012-10-20","West Ham United",4,"Southampton",1,"english-premier-league",2012
+311,"2012-10-20","Norwich City",1,"Arsenal",0,"english-premier-league",2012
+312,"2012-10-07","Liverpool",0,"Stoke City",0,"english-premier-league",2012
+313,"2012-10-07","Southampton",2,"Fulham",2,"english-premier-league",2012
+314,"2012-10-07","Tottenham Hotspur",2,"Aston Villa",0,"english-premier-league",2012
+315,"2012-10-07","Newcastle United",0,"Manchester United",3,"english-premier-league",2012
+316,"2012-10-06","Manchester City",3,"Sunderland",0,"english-premier-league",2012
+317,"2012-10-06","Swansea City",2,"Reading",2,"english-premier-league",2012
+318,"2012-10-06","Wigan Athletic",2,"Everton",2,"english-premier-league",2012
+319,"2012-10-06","West Bromwich Albion",3,"Queens Park Rangers",2,"english-premier-league",2012
+320,"2012-10-06","Chelsea",4,"Norwich City",1,"english-premier-league",2012
+321,"2012-10-06","West Ham United",1,"Arsenal",3,"english-premier-league",2012
+322,"2012-09-30","Aston Villa",1,"West Bromwich Albion",1,"english-premier-league",2012
+323,"2012-09-29","Arsenal",1,"Chelsea",2,"english-premier-league",2012
+324,"2012-10-01","Queens Park Rangers",1,"West Ham United",2,"english-premier-league",2012
+325,"2012-09-29","Everton",3,"Southampton",1,"english-premier-league",2012
+326,"2012-09-29","Sunderland",1,"Wigan Athletic",0,"english-premier-league",2012
+327,"2012-09-29","Reading",2,"Newcastle United",2,"english-premier-league",2012
+328,"2012-09-29","Stoke City",2,"Swansea City",0,"english-premier-league",2012
+329,"2012-09-29","Fulham",1,"Manchester City",2,"english-premier-league",2012
+330,"2012-09-29","Norwich City",2,"Liverpool",5,"english-premier-league",2012
+331,"2012-09-29","Manchester United",2,"Tottenham Hotspur",3,"english-premier-league",2012
+332,"2012-09-23","Tottenham Hotspur",2,"Queens Park Rangers",1,"english-premier-league",2012
+333,"2012-09-23","Manchester City",1,"Arsenal",1,"english-premier-league",2012
+334,"2012-09-23","Newcastle United",1,"Norwich City",0,"english-premier-league",2012
+335,"2012-09-23","Liverpool",1,"Manchester United",2,"english-premier-league",2012
+336,"2012-09-22","Chelsea",1,"Stoke City",0,"english-premier-league",2012
+337,"2012-09-22","Swansea City",0,"Everton",3,"english-premier-league",2012
+338,"2012-09-22","West Ham United",1,"Sunderland",1,"english-premier-league",2012
+339,"2012-09-22","Southampton",4,"Aston Villa",1,"english-premier-league",2012
+340,"2012-09-22","West Bromwich Albion",1,"Reading",0,"english-premier-league",2012
+341,"2012-09-22","Wigan Athletic",1,"Fulham",2,"english-premier-league",2012
+342,"2012-09-15","Norwich City",0,"West Ham United",0,"english-premier-league",2012
+343,"2012-09-15","Arsenal",6,"Southampton",1,"english-premier-league",2012
+344,"2012-09-16","Reading",1,"Tottenham Hotspur",3,"english-premier-league",2012
+345,"2012-09-17","Everton",2,"Newcastle United",2,"english-premier-league",2012
+346,"2012-09-15","Aston Villa",2,"Swansea City",0,"english-premier-league",2012
+347,"2012-09-15","Stoke City",1,"Manchester City",1,"english-premier-league",2012
+348,"2012-09-15","Queens Park Rangers",0,"Chelsea",0,"english-premier-league",2012
+349,"2012-09-15","Fulham",3,"West Bromwich Albion",0,"english-premier-league",2012
+350,"2012-09-15","Manchester United",4,"Wigan Athletic",0,"english-premier-league",2012
+351,"2012-09-15","Sunderland",1,"Liverpool",1,"english-premier-league",2012
+352,"2012-09-01","West Ham United",3,"Fulham",0,"english-premier-league",2012
+353,"2012-09-02","Southampton",2,"Manchester United",3,"english-premier-league",2012
+354,"2012-09-02","Liverpool",0,"Arsenal",2,"english-premier-league",2012
+355,"2012-09-02","Newcastle United",1,"Aston Villa",1,"english-premier-league",2012
+356,"2012-09-01","Swansea City",2,"Sunderland",2,"english-premier-league",2012
+357,"2012-09-01","Tottenham Hotspur",1,"Norwich City",1,"english-premier-league",2012
+358,"2012-09-01","West Bromwich Albion",2,"Everton",0,"english-premier-league",2012
+359,"2012-09-01","Manchester City",3,"Queens Park Rangers",1,"english-premier-league",2012
+360,"2012-09-01","Wigan Athletic",2,"Stoke City",2,"english-premier-league",2012
+361,"2012-08-26","Stoke City",0,"Arsenal",0,"english-premier-league",2012
+362,"2012-08-26","Liverpool",2,"Manchester City",2,"english-premier-league",2012
+363,"2012-08-25","Aston Villa",1,"Everton",3,"english-premier-league",2012
+364,"2012-08-25","Swansea City",3,"West Ham United",0,"english-premier-league",2012
+365,"2012-08-25","Manchester United",3,"Fulham",2,"english-premier-league",2012
+366,"2012-08-25","Southampton",0,"Wigan Athletic",2,"english-premier-league",2012
+367,"2012-08-25","Norwich City",1,"Queens Park Rangers",1,"english-premier-league",2012
+368,"2012-08-25","Tottenham Hotspur",1,"West Bromwich Albion",1,"english-premier-league",2012
+369,"2012-08-22","Chelsea",4,"Reading",2,"english-premier-league",2012
+370,"2012-08-25","Chelsea",2,"Newcastle United",0,"english-premier-league",2012
+371,"2012-08-20","Everton",1,"Manchester United",0,"english-premier-league",2012
+372,"2012-08-19","Wigan Athletic",0,"Chelsea",2,"english-premier-league",2012
+373,"2012-08-18","Arsenal",0,"Sunderland",0,"english-premier-league",2012
+374,"2012-08-18","Fulham",5,"Norwich City",0,"english-premier-league",2012
+375,"2012-08-19","Manchester City",3,"Southampton",2,"english-premier-league",2012
+376,"2012-08-18","Queens Park Rangers",0,"Swansea City",5,"english-premier-league",2012
+377,"2012-08-18","Reading",1,"Stoke City",1,"english-premier-league",2012
+378,"2012-08-18","West Bromwich Albion",3,"Liverpool",0,"english-premier-league",2012
+379,"2012-08-18","West Ham United",1,"Aston Villa",0,"english-premier-league",2012
+380,"2012-08-18","Newcastle United",2,"Tottenham Hotspur",1,"english-premier-league",2012
+381,"2014-05-11","Cardiff City",1,"Chelsea",2,"english-premier-league",2013
+382,"2014-05-11","Fulham",2,"Crystal Palace",2,"english-premier-league",2013
+383,"2014-05-11","Hull City",0,"Everton",2,"english-premier-league",2013
+384,"2014-05-11","Manchester City",2,"West Ham United",0,"english-premier-league",2013
+385,"2014-05-11","Southampton",1,"Manchester United",1,"english-premier-league",2013
+386,"2014-05-11","Liverpool",2,"Newcastle United",1,"english-premier-league",2013
+387,"2014-05-11","Norwich City",0,"Arsenal",2,"english-premier-league",2013
+388,"2014-05-11","West Bromwich Albion",1,"Stoke City",2,"english-premier-league",2013
+389,"2014-05-11","Sunderland",1,"Swansea City",3,"english-premier-league",2013
+390,"2014-05-11","Tottenham Hotspur",3,"Aston Villa",0,"english-premier-league",2013
+391,"2014-05-07","Manchester City",4,"Aston Villa",0,"english-premier-league",2013
+392,"2014-05-06","Manchester United",3,"Hull City",1,"english-premier-league",2013
+393,"2014-05-07","Sunderland",2,"West Bromwich Albion",0,"english-premier-league",2013
+394,"2014-05-03","West Ham United",2,"Tottenham Hotspur",0,"english-premier-league",2013
+395,"2014-05-04","Chelsea",0,"Norwich City",0,"english-premier-league",2013
+396,"2014-05-05","Crystal Palace",3,"Liverpool",3,"english-premier-league",2013
+397,"2014-05-04","Arsenal",1,"West Bromwich Albion",0,"english-premier-league",2013
+398,"2014-05-03","Manchester United",0,"Sunderland",1,"english-premier-league",2013
+399,"2014-05-03","Aston Villa",3,"Hull City",1,"english-premier-league",2013
+400,"2014-05-03","Newcastle United",3,"Cardiff City",0,"english-premier-league",2013
+401,"2014-05-03","Stoke City",4,"Fulham",1,"english-premier-league",2013
+402,"2014-05-03","Swansea City",0,"Southampton",1,"english-premier-league",2013
+403,"2014-04-28","Arsenal",3,"Newcastle United",0,"english-premier-league",2013
+404,"2014-05-03","Everton",2,"Manchester City",3,"english-premier-league",2013
+405,"2014-04-27","Sunderland",4,"Cardiff City",0,"english-premier-league",2013
+406,"2014-04-26","Southampton",2,"Everton",0,"english-premier-league",2013
+407,"2014-04-27","Liverpool",0,"Chelsea",2,"english-premier-league",2013
+408,"2014-04-26","Stoke City",0,"Tottenham Hotspur",1,"english-premier-league",2013
+409,"2014-04-27","Crystal Palace",0,"Manchester City",2,"english-premier-league",2013
+410,"2014-04-26","Fulham",2,"Hull City",2,"english-premier-league",2013
+411,"2014-04-26","Swansea City",4,"Aston Villa",1,"english-premier-league",2013
+412,"2014-04-26","West Bromwich Albion",1,"West Ham United",0,"english-premier-league",2013
+413,"2014-04-26","Manchester United",4,"Norwich City",0,"english-premier-league",2013
+414,"2014-04-21","Manchester City",3,"West Bromwich Albion",1,"english-premier-league",2013
+415,"2014-04-20","Norwich City",2,"Liverpool",3,"english-premier-league",2013
+416,"2014-04-19","Tottenham Hotspur",3,"Fulham",1,"english-premier-league",2013
+417,"2014-04-20","Hull City",0,"Arsenal",3,"english-premier-league",2013
+418,"2014-04-20","Everton",2,"Manchester United",0,"english-premier-league",2013
+419,"2014-04-19","Cardiff City",1,"Stoke City",1,"english-premier-league",2013
+420,"2014-04-19","Aston Villa",0,"Southampton",0,"english-premier-league",2013
+421,"2014-04-19","Newcastle United",1,"Swansea City",2,"english-premier-league",2013
+422,"2014-04-19","West Ham United",0,"Crystal Palace",1,"english-premier-league",2013
+423,"2014-04-19","Chelsea",1,"Sunderland",2,"english-premier-league",2013
+424,"2014-04-16","Everton",2,"Crystal Palace",3,"english-premier-league",2013
+425,"2014-04-16","Manchester City",2,"Sunderland",2,"english-premier-league",2013
+426,"2014-04-13","Liverpool",3,"Manchester City",2,"english-premier-league",2013
+427,"2014-04-15","Arsenal",3,"West Ham United",1,"english-premier-league",2013
+428,"2014-04-12","Crystal Palace",1,"Aston Villa",0,"english-premier-league",2013
+429,"2014-04-12","Southampton",0,"Cardiff City",1,"english-premier-league",2013
+430,"2014-04-12","Fulham",1,"Norwich City",0,"english-premier-league",2013
+431,"2014-04-13","Swansea City",0,"Chelsea",1,"english-premier-league",2013
+432,"2014-04-12","Stoke City",1,"Newcastle United",0,"english-premier-league",2013
+433,"2014-04-12","Sunderland",0,"Everton",1,"english-premier-league",2013
+434,"2014-04-05","Aston Villa",1,"Fulham",2,"english-premier-league",2013
+435,"2014-04-07","Tottenham Hotspur",5,"Sunderland",1,"english-premier-league",2013
+436,"2014-04-06","Everton",3,"Arsenal",0,"english-premier-league",2013
+437,"2014-04-12","West Bromwich Albion",3,"Tottenham Hotspur",3,"english-premier-league",2013
+438,"2014-04-05","Cardiff City",0,"Crystal Palace",3,"english-premier-league",2013
+439,"2014-04-05","Manchester City",4,"Southampton",1,"english-premier-league",2013
+440,"2014-04-05","Hull City",1,"Swansea City",0,"english-premier-league",2013
+441,"2014-04-06","West Ham United",1,"Liverpool",2,"english-premier-league",2013
+442,"2014-04-05","Newcastle United",0,"Manchester United",4,"english-premier-league",2013
+443,"2014-04-05","Norwich City",0,"West Bromwich Albion",1,"english-premier-league",2013
+444,"2014-04-05","Chelsea",3,"Stoke City",0,"english-premier-league",2013
+445,"2014-03-30","Liverpool",4,"Tottenham Hotspur",0,"english-premier-league",2013
+446,"2014-03-29","Manchester United",4,"Aston Villa",1,"english-premier-league",2013
+447,"2014-03-29","Stoke City",1,"Hull City",0,"english-premier-league",2013
+448,"2014-03-31","Sunderland",1,"West Ham United",2,"english-premier-league",2013
+449,"2014-03-29","Southampton",4,"Newcastle United",0,"english-premier-league",2013
+450,"2014-03-30","Fulham",1,"Everton",3,"english-premier-league",2013
+451,"2014-03-29","Crystal Palace",1,"Chelsea",0,"english-premier-league",2013
+452,"2014-03-29","Swansea City",3,"Norwich City",0,"english-premier-league",2013
+453,"2014-03-29","West Bromwich Albion",3,"Cardiff City",3,"english-premier-league",2013
+454,"2014-03-25","Manchester United",0,"Manchester City",3,"english-premier-league",2013
+455,"2014-03-25","Newcastle United",0,"Everton",3,"english-premier-league",2013
+456,"2014-03-23","Tottenham Hotspur",3,"Southampton",2,"english-premier-league",2013
+457,"2014-03-26","West Ham United",2,"Hull City",1,"english-premier-league",2013
+458,"2014-03-26","Liverpool",2,"Sunderland",1,"english-premier-league",2013
+459,"2014-03-25","Arsenal",2,"Swansea City",2,"english-premier-league",2013
+460,"2014-03-22","Chelsea",6,"Arsenal",0,"english-premier-league",2013
+461,"2014-03-23","Aston Villa",1,"Stoke City",4,"english-premier-league",2013
+462,"2014-03-29","Arsenal",1,"Manchester City",1,"english-premier-league",2013
+463,"2014-03-22","Cardiff City",3,"Liverpool",6,"english-premier-league",2013
+464,"2014-03-22","Manchester City",5,"Fulham",0,"english-premier-league",2013
+465,"2014-03-16","Manchester United",0,"Liverpool",3,"english-premier-league",2013
+466,"2014-03-16","Tottenham Hotspur",0,"Arsenal",1,"english-premier-league",2013
+467,"2014-03-22","Newcastle United",1,"Crystal Palace",0,"english-premier-league",2013
+468,"2014-03-22","Everton",3,"Swansea City",2,"english-premier-league",2013
+469,"2014-03-22","Norwich City",2,"Sunderland",0,"english-premier-league",2013
+470,"2014-03-22","Hull City",2,"West Bromwich Albion",0,"english-premier-league",2013
+471,"2014-03-22","West Ham United",0,"Manchester United",2,"english-premier-league",2013
+472,"2014-03-15","Hull City",0,"Manchester City",2,"english-premier-league",2013
+473,"2014-03-15","Everton",2,"Cardiff City",1,"english-premier-league",2013
+474,"2014-03-15","Fulham",1,"Newcastle United",0,"english-premier-league",2013
+475,"2014-03-15","Southampton",4,"Norwich City",2,"english-premier-league",2013
+476,"2014-03-08","Cardiff City",3,"Fulham",1,"english-premier-league",2013
+477,"2014-03-08","West Bromwich Albion",0,"Manchester United",3,"english-premier-league",2013
+478,"2014-03-15","Swansea City",1,"West Bromwich Albion",2,"english-premier-league",2013
+479,"2014-03-08","Crystal Palace",0,"Southampton",1,"english-premier-league",2013
+480,"2014-03-15","Aston Villa",1,"Chelsea",0,"english-premier-league",2013
+481,"2014-03-15","Stoke City",3,"West Ham United",1,"english-premier-league",2013
+482,"2014-03-15","Sunderland",0,"Crystal Palace",0,"english-premier-league",2013
+483,"2014-03-08","Norwich City",1,"Stoke City",1,"english-premier-league",2013
+484,"2014-03-01","Everton",1,"West Ham United",0,"english-premier-league",2013
+485,"2014-03-02","Swansea City",1,"Crystal Palace",1,"english-premier-league",2013
+486,"2014-03-01","Southampton",0,"Liverpool",3,"english-premier-league",2013
+487,"2014-03-08","Chelsea",4,"Tottenham Hotspur",0,"english-premier-league",2013
+488,"2014-03-01","Fulham",1,"Chelsea",3,"english-premier-league",2013
+489,"2014-03-01","Stoke City",1,"Arsenal",0,"english-premier-league",2013
+490,"2014-03-02","Aston Villa",4,"Norwich City",1,"english-premier-league",2013
+491,"2014-03-02","Tottenham Hotspur",1,"Cardiff City",0,"english-premier-league",2013
+492,"2014-03-01","Hull City",1,"Newcastle United",4,"english-premier-league",2013
+493,"2014-02-23","Liverpool",4,"Swansea City",3,"english-premier-league",2013
+494,"2014-02-23","Newcastle United",1,"Aston Villa",0,"english-premier-league",2013
+495,"2014-02-22","Chelsea",1,"Everton",0,"english-premier-league",2013
+496,"2014-02-22","West Bromwich Albion",1,"Fulham",1,"english-premier-league",2013
+497,"2014-02-22","Manchester City",1,"Stoke City",0,"english-premier-league",2013
+498,"2014-02-22","Arsenal",4,"Sunderland",1,"english-premier-league",2013
+499,"2014-02-22","Crystal Palace",0,"Manchester United",2,"english-premier-league",2013
+500,"2014-02-22","Cardiff City",0,"Hull City",4,"english-premier-league",2013
+501,"2014-02-23","Norwich City",1,"Tottenham Hotspur",0,"english-premier-league",2013
+502,"2014-02-22","West Ham United",3,"Southampton",1,"english-premier-league",2013
+503,"2014-02-12","Arsenal",0,"Manchester United",0,"english-premier-league",2013
+504,"2014-02-12","Newcastle United",0,"Tottenham Hotspur",4,"english-premier-league",2013
+505,"2014-02-11","Hull City",0,"Southampton",1,"english-premier-league",2013
+506,"2014-02-11","Cardiff City",0,"Aston Villa",0,"english-premier-league",2013
+507,"2014-02-12","Fulham",2,"Liverpool",3,"english-premier-league",2013
+508,"2014-02-12","Stoke City",1,"Swansea City",1,"english-premier-league",2013
+509,"2014-02-11","West Ham United",2,"Norwich City",0,"english-premier-league",2013
+510,"2014-02-11","West Bromwich Albion",1,"Chelsea",1,"english-premier-league",2013
+511,"2014-02-09","Tottenham Hotspur",1,"Everton",0,"english-premier-league",2013
+512,"2014-02-09","Manchester United",2,"Fulham",2,"english-premier-league",2013
+513,"2014-02-08","Liverpool",5,"Arsenal",1,"english-premier-league",2013
+514,"2014-02-08","Aston Villa",0,"West Ham United",2,"english-premier-league",2013
+515,"2014-02-08","Southampton",2,"Stoke City",2,"english-premier-league",2013
+516,"2014-02-08","Crystal Palace",3,"West Bromwich Albion",1,"english-premier-league",2013
+517,"2014-02-08","Chelsea",3,"Newcastle United",0,"english-premier-league",2013
+518,"2014-02-08","Sunderland",0,"Hull City",2,"english-premier-league",2013
+519,"2014-02-08","Swansea City",3,"Cardiff City",0,"english-premier-league",2013
+520,"2014-02-08","Norwich City",0,"Manchester City",0,"english-premier-league",2013
+521,"2014-02-03","Manchester City",0,"Chelsea",1,"english-premier-league",2013
+522,"2014-02-02","West Bromwich Albion",1,"Liverpool",1,"english-premier-league",2013
+523,"2014-02-02","Arsenal",2,"Crystal Palace",0,"english-premier-league",2013
+524,"2014-02-01","Newcastle United",0,"Sunderland",3,"english-premier-league",2013
+525,"2014-02-01","Everton",2,"Aston Villa",1,"english-premier-league",2013
+526,"2014-02-01","Fulham",0,"Southampton",3,"english-premier-league",2013
+527,"2014-02-01","Cardiff City",2,"Norwich City",1,"english-premier-league",2013
+528,"2014-02-01","West Ham United",2,"Swansea City",0,"english-premier-league",2013
+529,"2014-02-01","Stoke City",2,"Manchester United",1,"english-premier-league",2013
+530,"2014-02-01","Hull City",1,"Tottenham Hotspur",1,"english-premier-league",2013
+531,"2014-01-29","Sunderland",1,"Stoke City",0,"english-premier-league",2013
+532,"2014-01-29","Chelsea",0,"West Ham United",0,"english-premier-league",2013
+533,"2014-01-29","Aston Villa",4,"West Bromwich Albion",3,"english-premier-league",2013
+534,"2014-01-29","Tottenham Hotspur",1,"Manchester City",5,"english-premier-league",2013
+535,"2014-01-28","Manchester United",2,"Cardiff City",0,"english-premier-league",2013
+536,"2014-01-28","Norwich City",0,"Newcastle United",0,"english-premier-league",2013
+537,"2014-01-28","Southampton",2,"Arsenal",2,"english-premier-league",2013
+538,"2014-01-28","Swansea City",2,"Fulham",0,"english-premier-league",2013
+539,"2014-01-28","Crystal Palace",1,"Hull City",0,"english-premier-league",2013
+540,"2014-01-19","Swansea City",1,"Tottenham Hotspur",3,"english-premier-league",2013
+541,"2014-01-19","Chelsea",3,"Manchester United",1,"english-premier-league",2013
+542,"2014-01-28","Liverpool",4,"Everton",0,"english-premier-league",2013
+543,"2014-01-18","Sunderland",2,"Southampton",2,"english-premier-league",2013
+544,"2014-01-20","West Bromwich Albion",1,"Everton",1,"english-premier-league",2013
+545,"2014-01-18","Crystal Palace",1,"Stoke City",0,"english-premier-league",2013
+546,"2014-01-18","Norwich City",1,"Hull City",0,"english-premier-league",2013
+547,"2014-01-18","West Ham United",1,"Newcastle United",3,"english-premier-league",2013
+548,"2014-01-18","Arsenal",2,"Fulham",0,"english-premier-league",2013
+549,"2014-01-18","Manchester City",4,"Cardiff City",2,"english-premier-league",2013
+550,"2014-01-12","Stoke City",3,"Liverpool",5,"english-premier-league",2013
+551,"2014-01-18","Liverpool",2,"Aston Villa",2,"english-premier-league",2013
+552,"2014-01-13","Aston Villa",1,"Arsenal",2,"english-premier-league",2013
+553,"2014-01-11","Hull City",0,"Chelsea",2,"english-premier-league",2013
+554,"2014-01-12","Newcastle United",0,"Manchester City",2,"english-premier-league",2013
+555,"2014-01-11","Tottenham Hotspur",2,"Crystal Palace",0,"english-premier-league",2013
+556,"2014-01-11","Southampton",1,"West Bromwich Albion",0,"english-premier-league",2013
+557,"2014-01-11","Cardiff City",0,"West Ham United",2,"english-premier-league",2013
+558,"2014-01-11","Fulham",1,"Sunderland",4,"english-premier-league",2013
+559,"2014-01-11","Everton",2,"Norwich City",0,"english-premier-league",2013
+560,"2014-01-01","Swansea City",2,"Manchester City",3,"english-premier-league",2013
+561,"2014-01-01","Crystal Palace",1,"Norwich City",1,"english-premier-league",2013
+562,"2014-01-01","Arsenal",2,"Cardiff City",0,"english-premier-league",2013
+563,"2014-01-01","Fulham",2,"West Ham United",1,"english-premier-league",2013
+564,"2014-01-11","Manchester United",2,"Swansea City",0,"english-premier-league",2013
+565,"2014-01-01","Sunderland",0,"Aston Villa",1,"english-premier-league",2013
+566,"2014-01-01","Liverpool",2,"Hull City",0,"english-premier-league",2013
+567,"2014-01-01","Stoke City",1,"Everton",1,"english-premier-league",2013
+568,"2014-01-01","Southampton",0,"Chelsea",3,"english-premier-league",2013
+569,"2014-01-01","West Bromwich Albion",1,"Newcastle United",0,"english-premier-league",2013
+570,"2013-12-29","Newcastle United",0,"Arsenal",1,"english-premier-league",2013
+571,"2013-12-29","Tottenham Hotspur",3,"Stoke City",0,"english-premier-league",2013
+572,"2013-12-29","Everton",2,"Southampton",1,"english-premier-league",2013
+573,"2013-12-29","Chelsea",2,"Liverpool",1,"english-premier-league",2013
+574,"2014-01-01","Manchester United",1,"Tottenham Hotspur",2,"english-premier-league",2013
+575,"2013-12-28","West Ham United",3,"West Bromwich Albion",3,"english-premier-league",2013
+576,"2013-12-28","Hull City",6,"Fulham",0,"english-premier-league",2013
+577,"2013-12-28","Norwich City",0,"Manchester United",1,"english-premier-league",2013
+578,"2013-12-28","Aston Villa",1,"Swansea City",1,"english-premier-league",2013
+579,"2013-12-28","Manchester City",1,"Crystal Palace",0,"english-premier-league",2013
+580,"2013-12-28","Cardiff City",2,"Sunderland",2,"english-premier-league",2013
+581,"2013-12-26","Aston Villa",0,"Crystal Palace",1,"english-premier-league",2013
+582,"2013-12-26","Hull City",2,"Manchester United",3,"english-premier-league",2013
+583,"2013-12-26","Chelsea",1,"Swansea City",0,"english-premier-league",2013
+584,"2013-12-26","Cardiff City",0,"Southampton",3,"english-premier-league",2013
+585,"2013-12-26","Newcastle United",5,"Stoke City",1,"english-premier-league",2013
+586,"2013-12-26","Everton",0,"Sunderland",1,"english-premier-league",2013
+587,"2013-12-26","Norwich City",1,"Fulham",2,"english-premier-league",2013
+588,"2013-12-26","West Ham United",1,"Arsenal",3,"english-premier-league",2013
+589,"2013-12-26","Tottenham Hotspur",1,"West Bromwich Albion",1,"english-premier-league",2013
+590,"2013-12-21","Liverpool",3,"Cardiff City",1,"english-premier-league",2013
+591,"2013-12-22","Swansea City",1,"Everton",2,"english-premier-league",2013
+592,"2013-12-22","Southampton",2,"Tottenham Hotspur",3,"english-premier-league",2013
+593,"2013-12-26","Manchester City",2,"Liverpool",1,"english-premier-league",2013
+594,"2013-12-23","Arsenal",0,"Chelsea",0,"english-premier-league",2013
+595,"2013-12-21","Crystal Palace",0,"Newcastle United",3,"english-premier-league",2013
+596,"2013-12-21","Sunderland",0,"Norwich City",0,"english-premier-league",2013
+597,"2013-12-21","Stoke City",2,"Aston Villa",1,"english-premier-league",2013
+598,"2013-12-21","Manchester United",3,"West Ham United",1,"english-premier-league",2013
+599,"2013-12-21","Fulham",2,"Manchester City",4,"english-premier-league",2013
+600,"2013-12-21","West Bromwich Albion",1,"Hull City",1,"english-premier-league",2013
+601,"2013-12-15","Norwich City",1,"Swansea City",1,"english-premier-league",2013
+602,"2013-12-14","Manchester City",6,"Arsenal",3,"english-premier-league",2013
+603,"2013-12-15","Tottenham Hotspur",0,"Liverpool",5,"english-premier-league",2013
+604,"2013-12-15","Aston Villa",0,"Manchester United",3,"english-premier-league",2013
+605,"2013-12-14","Cardiff City",1,"West Bromwich Albion",0,"english-premier-league",2013
+606,"2013-12-14","Chelsea",2,"Crystal Palace",1,"english-premier-league",2013
+607,"2013-12-14","Newcastle United",1,"Southampton",1,"english-premier-league",2013
+608,"2013-12-14","Everton",4,"Fulham",1,"english-premier-league",2013
+609,"2013-12-14","West Ham United",0,"Sunderland",0,"english-premier-league",2013
+610,"2013-12-09","Swansea City",1,"Hull City",1,"english-premier-league",2013
+611,"2013-12-14","Hull City",0,"Stoke City",0,"english-premier-league",2013
+612,"2013-12-07","Manchester United",0,"Newcastle United",1,"english-premier-league",2013
+613,"2013-12-08","Fulham",2,"Aston Villa",0,"english-premier-league",2013
+614,"2013-12-08","Arsenal",1,"Everton",1,"english-premier-league",2013
+615,"2013-12-07","Crystal Palace",2,"Cardiff City",0,"english-premier-league",2013
+616,"2013-12-07","Liverpool",4,"West Ham United",1,"english-premier-league",2013
+617,"2013-12-07","Stoke City",3,"Chelsea",2,"english-premier-league",2013
+618,"2013-12-07","West Bromwich Albion",0,"Norwich City",2,"english-premier-league",2013
+619,"2013-12-07","Southampton",1,"Manchester City",1,"english-premier-league",2013
+620,"2013-12-07","Sunderland",1,"Tottenham Hotspur",2,"english-premier-league",2013
+621,"2013-12-04","Arsenal",2,"Hull City",0,"english-premier-league",2013
+622,"2013-12-04","Manchester United",0,"Everton",1,"english-premier-league",2013
+623,"2013-12-04","Southampton",2,"Aston Villa",3,"english-premier-league",2013
+624,"2013-12-04","Liverpool",5,"Norwich City",1,"english-premier-league",2013
+625,"2013-12-04","Stoke City",0,"Cardiff City",0,"english-premier-league",2013
+626,"2013-12-04","Sunderland",3,"Chelsea",4,"english-premier-league",2013
+627,"2013-12-04","Fulham",1,"Tottenham Hotspur",2,"english-premier-league",2013
+628,"2013-12-04","West Bromwich Albion",2,"Manchester City",3,"english-premier-league",2013
+629,"2013-12-04","Swansea City",3,"Newcastle United",0,"english-premier-league",2013
+630,"2013-12-03","Crystal Palace",1,"West Ham United",0,"english-premier-league",2013
+631,"2013-12-01","Chelsea",3,"Southampton",1,"english-premier-league",2013
+632,"2013-12-01","Tottenham Hotspur",2,"Manchester United",2,"english-premier-league",2013
+633,"2013-12-01","Manchester City",3,"Swansea City",0,"english-premier-league",2013
+634,"2013-12-01","Hull City",3,"Liverpool",1,"english-premier-league",2013
+635,"2013-11-30","Aston Villa",0,"Sunderland",0,"english-premier-league",2013
+636,"2013-11-30","Cardiff City",0,"Arsenal",3,"english-premier-league",2013
+637,"2013-11-30","Everton",4,"Stoke City",0,"english-premier-league",2013
+638,"2013-11-30","Norwich City",1,"Crystal Palace",0,"english-premier-league",2013
+639,"2013-11-30","West Ham United",3,"Fulham",0,"english-premier-league",2013
+640,"2013-11-25","West Bromwich Albion",2,"Aston Villa",2,"english-premier-league",2013
+641,"2013-11-24","Manchester City",6,"Tottenham Hotspur",0,"english-premier-league",2013
+642,"2013-11-30","Newcastle United",2,"West Bromwich Albion",1,"english-premier-league",2013
+643,"2013-11-24","Cardiff City",2,"Manchester United",2,"english-premier-league",2013
+644,"2013-11-23","Everton",3,"Liverpool",3,"english-premier-league",2013
+645,"2013-11-23","Arsenal",2,"Southampton",0,"english-premier-league",2013
+646,"2013-11-23","Fulham",1,"Swansea City",2,"english-premier-league",2013
+647,"2013-11-23","Hull City",0,"Crystal Palace",1,"english-premier-league",2013
+648,"2013-11-23","West Ham United",0,"Chelsea",3,"english-premier-league",2013
+649,"2013-11-10","Tottenham Hotspur",0,"Newcastle United",1,"english-premier-league",2013
+650,"2013-11-10","Sunderland",1,"Manchester City",0,"english-premier-league",2013
+651,"2013-11-23","Stoke City",2,"Sunderland",0,"english-premier-league",2013
+652,"2013-11-23","Newcastle United",2,"Norwich City",1,"english-premier-league",2013
+653,"2013-11-10","Manchester United",1,"Arsenal",0,"english-premier-league",2013
+654,"2013-11-10","Swansea City",3,"Stoke City",3,"english-premier-league",2013
+655,"2013-11-09","Aston Villa",2,"Cardiff City",0,"english-premier-league",2013
+656,"2013-11-09","Chelsea",2,"West Bromwich Albion",2,"english-premier-league",2013
+657,"2013-11-09","Crystal Palace",0,"Everton",0,"english-premier-league",2013
+658,"2013-11-09","Liverpool",4,"Fulham",0,"english-premier-league",2013
+659,"2013-11-03","Everton",0,"Tottenham Hotspur",0,"english-premier-league",2013
+660,"2013-11-03","Cardiff City",1,"Swansea City",0,"english-premier-league",2013
+661,"2013-11-09","Norwich City",3,"West Ham United",1,"english-premier-league",2013
+662,"2013-11-09","Southampton",4,"Hull City",1,"english-premier-league",2013
+663,"2013-11-02","Fulham",1,"Manchester United",3,"english-premier-league",2013
+664,"2013-11-02","Newcastle United",2,"Chelsea",0,"english-premier-league",2013
+665,"2013-11-02","Hull City",1,"Sunderland",0,"english-premier-league",2013
+666,"2013-11-02","Manchester City",7,"Norwich City",0,"english-premier-league",2013
+667,"2013-11-02","Stoke City",1,"Southampton",1,"english-premier-league",2013
+668,"2013-11-02","West Bromwich Albion",2,"Crystal Palace",0,"english-premier-league",2013
+669,"2013-11-02","West Ham United",0,"Aston Villa",0,"english-premier-league",2013
+670,"2013-11-02","Arsenal",2,"Liverpool",0,"english-premier-league",2013
+671,"2013-10-27","Sunderland",2,"Newcastle United",1,"english-premier-league",2013
+672,"2013-10-27","Tottenham Hotspur",1,"Hull City",0,"english-premier-league",2013
+673,"2013-10-26","Crystal Palace",0,"Arsenal",2,"english-premier-league",2013
+674,"2013-10-27","Swansea City",0,"West Ham United",0,"english-premier-league",2013
+675,"2013-10-27","Chelsea",2,"Manchester City",1,"english-premier-league",2013
+676,"2013-10-26","Manchester United",3,"Stoke City",2,"english-premier-league",2013
+677,"2013-10-26","Aston Villa",0,"Everton",2,"english-premier-league",2013
+678,"2013-10-26","Liverpool",4,"West Bromwich Albion",1,"english-premier-league",2013
+679,"2013-10-26","Norwich City",0,"Cardiff City",0,"english-premier-league",2013
+680,"2013-10-21","Crystal Palace",1,"Fulham",4,"english-premier-league",2013
+681,"2013-10-26","Southampton",2,"Fulham",0,"english-premier-league",2013
+682,"2013-10-19","Arsenal",4,"Norwich City",1,"english-premier-league",2013
+683,"2013-10-20","Aston Villa",0,"Tottenham Hotspur",2,"english-premier-league",2013
+684,"2013-10-19","Newcastle United",2,"Liverpool",2,"english-premier-league",2013
+685,"2013-10-19","Chelsea",4,"Cardiff City",1,"english-premier-league",2013
+686,"2013-10-19","Swansea City",4,"Sunderland",0,"english-premier-league",2013
+687,"2013-10-19","Manchester United",1,"Southampton",1,"english-premier-league",2013
+688,"2013-10-19","Everton",2,"Hull City",1,"english-premier-league",2013
+689,"2013-10-19","Stoke City",0,"West Bromwich Albion",0,"english-premier-league",2013
+690,"2013-10-05","Manchester City",3,"Everton",1,"english-premier-league",2013
+691,"2013-10-19","West Ham United",1,"Manchester City",3,"english-premier-league",2013
+692,"2013-10-06","West Bromwich Albion",1,"Arsenal",1,"english-premier-league",2013
+693,"2013-10-06","Southampton",2,"Swansea City",0,"english-premier-league",2013
+694,"2013-10-06","Tottenham Hotspur",0,"West Ham United",3,"english-premier-league",2013
+695,"2013-10-06","Norwich City",1,"Chelsea",3,"english-premier-league",2013
+696,"2013-10-05","Cardiff City",1,"Newcastle United",2,"english-premier-league",2013
+697,"2013-10-05","Liverpool",3,"Crystal Palace",1,"english-premier-league",2013
+698,"2013-10-05","Hull City",0,"Aston Villa",0,"english-premier-league",2013
+699,"2013-10-05","Fulham",1,"Stoke City",0,"english-premier-league",2013
+700,"2013-09-28","Tottenham Hotspur",1,"Chelsea",1,"english-premier-league",2013
+701,"2013-10-05","Sunderland",1,"Manchester United",2,"english-premier-league",2013
+702,"2013-09-30","Everton",3,"Newcastle United",2,"english-premier-league",2013
+703,"2013-09-28","Aston Villa",3,"Manchester City",2,"english-premier-league",2013
+704,"2013-09-29","Stoke City",0,"Norwich City",1,"english-premier-league",2013
+705,"2013-09-29","Sunderland",1,"Liverpool",3,"english-premier-league",2013
+706,"2013-09-28","Fulham",1,"Cardiff City",2,"english-premier-league",2013
+707,"2013-09-28","Hull City",1,"West Ham United",0,"english-premier-league",2013
+708,"2013-09-28","Southampton",2,"Crystal Palace",0,"english-premier-league",2013
+709,"2013-09-28","Manchester United",1,"West Bromwich Albion",2,"english-premier-league",2013
+710,"2013-09-28","Swansea City",1,"Arsenal",2,"english-premier-league",2013
+711,"2013-09-22","Arsenal",3,"Stoke City",1,"english-premier-league",2013
+712,"2013-09-22","Crystal Palace",0,"Swansea City",2,"english-premier-league",2013
+713,"2013-09-22","Cardiff City",0,"Tottenham Hotspur",1,"english-premier-league",2013
+714,"2013-09-21","Liverpool",0,"Southampton",1,"english-premier-league",2013
+715,"2013-09-21","Norwich City",0,"Aston Villa",1,"english-premier-league",2013
+716,"2013-09-22","Manchester City",4,"Manchester United",1,"english-premier-league",2013
+717,"2013-09-21","Newcastle United",2,"Hull City",3,"english-premier-league",2013
+718,"2013-09-21","West Ham United",2,"Everton",3,"english-premier-league",2013
+719,"2013-09-21","West Bromwich Albion",3,"Sunderland",0,"english-premier-league",2013
+720,"2013-09-21","Chelsea",2,"Fulham",0,"english-premier-league",2013
+721,"2013-09-16","Swansea City",2,"Liverpool",2,"english-premier-league",2013
+722,"2013-09-14","Hull City",1,"Cardiff City",1,"english-premier-league",2013
+723,"2013-09-14","Aston Villa",1,"Newcastle United",2,"english-premier-league",2013
+724,"2013-09-14","Fulham",1,"West Bromwich Albion",1,"english-premier-league",2013
+725,"2013-09-15","Southampton",0,"West Ham United",0,"english-premier-league",2013
+726,"2013-09-14","Manchester United",2,"Crystal Palace",0,"english-premier-league",2013
+727,"2013-09-14","Stoke City",0,"Manchester City",0,"english-premier-league",2013
+728,"2013-09-14","Sunderland",1,"Arsenal",3,"english-premier-league",2013
+729,"2013-09-14","Tottenham Hotspur",2,"Norwich City",0,"english-premier-league",2013
+730,"2013-09-01","Liverpool",1,"Manchester United",0,"english-premier-league",2013
+731,"2013-09-14","Everton",1,"Chelsea",0,"english-premier-league",2013
+732,"2013-08-31","Newcastle United",1,"Fulham",0,"english-premier-league",2013
+733,"2013-08-31","Cardiff City",0,"Everton",0,"english-premier-league",2013
+734,"2013-09-01","Arsenal",1,"Tottenham Hotspur",0,"english-premier-league",2013
+735,"2013-08-31","Manchester City",2,"Hull City",0,"english-premier-league",2013
+736,"2013-09-01","West Bromwich Albion",0,"Swansea City",2,"english-premier-league",2013
+737,"2013-08-31","Norwich City",1,"Southampton",0,"english-premier-league",2013
+738,"2013-08-31","West Ham United",0,"Stoke City",1,"english-premier-league",2013
+739,"2013-08-26","Manchester United",0,"Chelsea",0,"english-premier-league",2013
+740,"2013-08-25","Cardiff City",3,"Manchester City",2,"english-premier-league",2013
+741,"2013-08-31","Crystal Palace",3,"Sunderland",1,"english-premier-league",2013
+742,"2013-08-24","Southampton",1,"Sunderland",1,"english-premier-league",2013
+743,"2013-08-24","Everton",0,"West Bromwich Albion",0,"english-premier-league",2013
+744,"2013-08-25","Tottenham Hotspur",1,"Swansea City",0,"english-premier-league",2013
+745,"2013-08-24","Fulham",1,"Arsenal",3,"english-premier-league",2013
+746,"2013-08-24","Newcastle United",0,"West Ham United",0,"english-premier-league",2013
+747,"2013-08-24","Hull City",1,"Norwich City",0,"english-premier-league",2013
+748,"2013-08-24","Stoke City",2,"Crystal Palace",1,"english-premier-league",2013
+749,"2013-08-24","Aston Villa",0,"Liverpool",1,"english-premier-league",2013
+750,"2013-08-21","Chelsea",2,"Aston Villa",1,"english-premier-league",2013
+751,"2013-08-19","Manchester City",4,"Newcastle United",0,"english-premier-league",2013
+752,"2013-08-18","Crystal Palace",0,"Tottenham Hotspur",1,"english-premier-league",2013
+753,"2013-08-17","Arsenal",1,"Aston Villa",3,"english-premier-league",2013
+754,"2013-08-18","Chelsea",2,"Hull City",0,"english-premier-league",2013
+755,"2013-08-17","Liverpool",1,"Stoke City",0,"english-premier-league",2013
+756,"2013-08-17","Norwich City",2,"Everton",2,"english-premier-league",2013
+757,"2013-08-17","Sunderland",0,"Fulham",1,"english-premier-league",2013
+758,"2013-08-17","West Bromwich Albion",0,"Southampton",1,"english-premier-league",2013
+759,"2013-08-17","West Ham United",2,"Cardiff City",0,"english-premier-league",2013
+760,"2013-08-17","Swansea City",1,"Manchester United",4,"english-premier-league",2013
+3040,"2013-05-04","Bolton Wanderers",2,"Blackpool",2,"english-league-championship",2012
+3041,"2013-05-04","Brighton & Hove Albion",2,"Wolverhampton Wanderers",0,"english-league-championship",2012
+3042,"2013-05-04","Birmingham City",1,"Blackburn Rovers",1,"english-league-championship",2012
+3044,"2013-05-04","Burnley",2,"Ipswich Town",0,"english-league-championship",2012
+3045,"2013-05-04","Huddersfield Town",2,"Barnsley",2,"english-league-championship",2012
+3046,"2013-05-04","Charlton Athletic",4,"Bristol City",1,"english-league-championship",2012
+3047,"2013-05-04","Crystal Palace",3,"Peterborough United",2,"english-league-championship",2012
+3048,"2013-05-04","Derby County",1,"Millwall",0,"english-league-championship",2012
+3049,"2013-05-04","Hull City",2,"Cardiff City",2,"english-league-championship",2012
+3050,"2013-05-04","Nottingham Forest",2,"Leicester City",3,"english-league-championship",2012
+3051,"2013-05-04","Sheffield Wednesday",2,"Middlesbrough",0,"english-league-championship",2012
+3052,"2013-04-30","Millwall",0,"Crystal Palace",0,"english-league-championship",2012
+3053,"2013-05-04","Watford",1,"Leeds United",2,"english-league-championship",2012
+3054,"2013-04-27","Barnsley",2,"Hull City",0,"english-league-championship",2012
+3055,"2013-04-27","Blackpool",2,"Derby County",1,"english-league-championship",2012
+3056,"2013-04-27","Blackburn Rovers",1,"Crystal Palace",1,"english-league-championship",2012
+3057,"2013-04-27","Bristol City",1,"Huddersfield Town",3,"english-league-championship",2012
+3058,"2013-04-27","Cardiff City",1,"Bolton Wanderers",1,"english-league-championship",2012
+3059,"2013-04-27","Ipswich Town",3,"Birmingham City",1,"english-league-championship",2012
+3060,"2013-04-27","Wolverhampton Wanderers",1,"Burnley",2,"english-league-championship",2012
+3061,"2013-04-27","Middlesbrough",2,"Charlton Athletic",2,"english-league-championship",2012
+3062,"2013-04-27","Millwall",0,"Nottingham Forest",1,"english-league-championship",2012
+3063,"2013-04-27","Leeds United",1,"Brighton & Hove Albion",2,"english-league-championship",2012
+3064,"2013-04-20","Birmingham City",1,"Leeds United",0,"english-league-championship",2012
+3065,"2013-04-20","Huddersfield Town",3,"Millwall",0,"english-league-championship",2012
+3066,"2013-04-20","Burnley",1,"Cardiff City",1,"english-league-championship",2012
+3067,"2013-04-26","Leicester City",1,"Watford",2,"english-league-championship",2012
+3068,"2013-04-23","Millwall",1,"Blackburn Rovers",2,"english-league-championship",2012
+3069,"2013-04-27","Peterborough United",1,"Sheffield Wednesday",0,"english-league-championship",2012
+3070,"2013-04-20","Crystal Palace",2,"Leicester City",2,"english-league-championship",2012
+3071,"2013-04-20","Charlton Athletic",2,"Wolverhampton Wanderers",1,"english-league-championship",2012
+3072,"2013-04-20","Brighton & Hove Albion",6,"Blackpool",1,"english-league-championship",2012
+3073,"2013-04-20","Bolton Wanderers",2,"Middlesbrough",1,"english-league-championship",2012
+3074,"2013-04-20","Derby County",3,"Peterborough United",1,"english-league-championship",2012
+3075,"2013-04-20","Nottingham Forest",0,"Barnsley",0,"english-league-championship",2012
+3076,"2013-04-20","Sheffield Wednesday",1,"Ipswich Town",1,"english-league-championship",2012
+3077,"2013-04-16","Barnsley",1,"Derby County",1,"english-league-championship",2012
+3078,"2013-04-20","Watford",4,"Blackburn Rovers",0,"english-league-championship",2012
+3079,"2013-04-19","Hull City",0,"Bristol City",0,"english-league-championship",2012
+3080,"2013-04-16","Bristol City",0,"Birmingham City",1,"english-league-championship",2012
+3081,"2013-04-16","Ipswich Town",3,"Crystal Palace",0,"english-league-championship",2012
+3082,"2013-04-16","Blackburn Rovers",1,"Huddersfield Town",0,"english-league-championship",2012
+3083,"2013-04-16","Cardiff City",0,"Charlton Athletic",0,"english-league-championship",2012
+3084,"2013-04-16","Middlesbrough",1,"Nottingham Forest",0,"english-league-championship",2012
+3085,"2013-04-16","Leeds United",1,"Burnley",0,"english-league-championship",2012
+3086,"2013-04-16","Millwall",1,"Watford",0,"english-league-championship",2012
+3087,"2013-04-16","Peterborough United",0,"Brighton & Hove Albion",0,"english-league-championship",2012
+3088,"2013-04-16","Wolverhampton Wanderers",1,"Hull City",0,"english-league-championship",2012
+3089,"2013-04-16","Leicester City",3,"Bolton Wanderers",2,"english-league-championship",2012
+3090,"2013-04-16","Blackpool",0,"Sheffield Wednesday",0,"english-league-championship",2012
+3091,"2013-04-13","Leeds United",2,"Sheffield Wednesday",1,"english-league-championship",2012
+3092,"2013-04-13","Barnsley",0,"Charlton Athletic",6,"english-league-championship",2012
+3093,"2013-04-13","Blackburn Rovers",2,"Derby County",0,"english-league-championship",2012
+3094,"2013-04-13","Ipswich Town",1,"Hull City",2,"english-league-championship",2012
+3095,"2013-04-13","Peterborough United",3,"Watford",2,"english-league-championship",2012
+3096,"2013-04-13","Bristol City",1,"Bolton Wanderers",2,"english-league-championship",2012
+3097,"2013-04-13","Blackpool",1,"Burnley",0,"english-league-championship",2012
+3098,"2013-04-13","Cardiff City",3,"Nottingham Forest",0,"english-league-championship",2012
+3099,"2013-04-13","Middlesbrough",0,"Brighton & Hove Albion",2,"english-league-championship",2012
+3100,"2013-04-13","Wolverhampton Wanderers",1,"Huddersfield Town",3,"english-league-championship",2012
+3101,"2013-04-12","Leicester City",2,"Birmingham City",2,"english-league-championship",2012
+3102,"2013-04-06","Birmingham City",1,"Millwall",1,"english-league-championship",2012
+3103,"2013-04-09","Cardiff City",1,"Barnsley",1,"english-league-championship",2012
+3104,"2013-04-09","Millwall",1,"Sheffield Wednesday",2,"english-league-championship",2012
+3105,"2013-04-06","Brighton & Hove Albion",1,"Leicester City",1,"english-league-championship",2012
+3106,"2013-04-06","Bolton Wanderers",2,"Wolverhampton Wanderers",0,"english-league-championship",2012
+3107,"2013-04-06","Burnley",3,"Bristol City",1,"english-league-championship",2012
+3108,"2013-04-06","Crystal Palace",0,"Barnsley",0,"english-league-championship",2012
+3109,"2013-04-06","Charlton Athletic",2,"Leeds United",1,"english-league-championship",2012
+3110,"2013-04-06","Derby County",0,"Ipswich Town",1,"english-league-championship",2012
+3111,"2013-04-06","Huddersfield Town",2,"Peterborough United",2,"english-league-championship",2012
+3112,"2013-04-06","Watford",0,"Cardiff City",0,"english-league-championship",2012
+3113,"2013-04-06","Hull City",1,"Middlesbrough",0,"english-league-championship",2012
+3114,"2013-04-02","Middlesbrough",0,"Peterborough United",0,"english-league-championship",2012
+3115,"2013-04-02","Hull City",0,"Watford",1,"english-league-championship",2012
+3116,"2013-04-06","Nottingham Forest",1,"Blackpool",1,"english-league-championship",2012
+3117,"2013-04-02","Bolton Wanderers",1,"Huddersfield Town",0,"english-league-championship",2012
+3118,"2013-04-02","Brighton & Hove Albion",0,"Charlton Athletic",0,"english-league-championship",2012
+3119,"2013-04-06","Sheffield Wednesday",3,"Blackburn Rovers",2,"english-league-championship",2012
+3120,"2013-04-01","Barnsley",2,"Leicester City",0,"english-league-championship",2012
+3121,"2013-04-01","Birmingham City",2,"Wolverhampton Wanderers",3,"english-league-championship",2012
+3122,"2013-04-01","Blackpool",1,"Crystal Palace",0,"english-league-championship",2012
+3123,"2013-04-01","Bristol City",1,"Sheffield Wednesday",1,"english-league-championship",2012
+3124,"2013-04-01","Cardiff City",3,"Blackburn Rovers",0,"english-league-championship",2012
+3125,"2013-04-01","Burnley",1,"Nottingham Forest",1,"english-league-championship",2012
+3126,"2013-04-01","Millwall",0,"Ipswich Town",0,"english-league-championship",2012
+3127,"2013-04-01","Leeds United",1,"Derby County",2,"english-league-championship",2012
+3128,"2013-03-30","Ipswich Town",3,"Leeds United",0,"english-league-championship",2012
+3129,"2013-03-30","Charlton Athletic",3,"Bolton Wanderers",2,"english-league-championship",2012
+3130,"2013-03-30","Nottingham Forest",2,"Brighton & Hove Albion",2,"english-league-championship",2012
+3131,"2013-03-30","Peterborough United",2,"Cardiff City",1,"english-league-championship",2012
+3132,"2013-03-30","Wolverhampton Wanderers",3,"Middlesbrough",2,"english-league-championship",2012
+3133,"2013-03-29","Blackburn Rovers",1,"Blackpool",1,"english-league-championship",2012
+3134,"2013-03-30","Huddersfield Town",0,"Hull City",1,"english-league-championship",2012
+3135,"2013-03-30","Sheffield Wednesday",2,"Barnsley",1,"english-league-championship",2012
+3136,"2013-03-29","Watford",3,"Burnley",3,"english-league-championship",2012
+3137,"2013-03-29","Derby County",3,"Bristol City",0,"english-league-championship",2012
+3138,"2013-03-29","Crystal Palace",0,"Birmingham City",4,"english-league-championship",2012
+3139,"2013-03-29","Leicester City",0,"Millwall",1,"english-league-championship",2012
+3140,"2013-03-17","Brighton & Hove Albion",3,"Crystal Palace",0,"english-league-championship",2012
+3141,"2013-03-17","Blackburn Rovers",1,"Burnley",1,"english-league-championship",2012
+3142,"2013-03-16","Charlton Athletic",0,"Millwall",2,"english-league-championship",2012
+3143,"2013-03-16","Leeds United",1,"Huddersfield Town",2,"english-league-championship",2012
+3144,"2013-03-16","Barnsley",1,"Watford",0,"english-league-championship",2012
+3145,"2013-03-16","Blackpool",0,"Peterborough United",1,"english-league-championship",2012
+3146,"2013-03-16","Ipswich Town",1,"Bolton Wanderers",0,"english-league-championship",2012
+3147,"2013-03-16","Hull City",1,"Nottingham Forest",2,"english-league-championship",2012
+3148,"2013-03-16","Sheffield Wednesday",0,"Cardiff City",2,"english-league-championship",2012
+3149,"2013-03-16","Middlesbrough",0,"Birmingham City",1,"english-league-championship",2012
+3150,"2013-03-16","Wolverhampton Wanderers",2,"Bristol City",1,"english-league-championship",2012
+3151,"2013-03-16","Derby County",2,"Leicester City",1,"english-league-championship",2012
+3152,"2013-03-12","Leeds United",1,"Peterborough United",1,"english-league-championship",2012
+3153,"2013-03-12","Cardiff City",1,"Leicester City",1,"english-league-championship",2012
+3154,"2013-03-12","Barnsley",2,"Brighton & Hove Albion",1,"english-league-championship",2012
+3155,"2013-03-11","Burnley",0,"Hull City",1,"english-league-championship",2012
+3156,"2013-03-09","Crystal Palace",2,"Leeds United",2,"english-league-championship",2012
+3157,"2013-03-09","Bristol City",2,"Middlesbrough",0,"english-league-championship",2012
+3158,"2013-03-09","Birmingham City",3,"Derby County",1,"english-league-championship",2012
+3159,"2013-03-09","Bolton Wanderers",1,"Brighton & Hove Albion",0,"english-league-championship",2012
+3160,"2013-03-09","Huddersfield Town",0,"Charlton Athletic",1,"english-league-championship",2012
+3161,"2013-03-09","Leicester City",0,"Sheffield Wednesday",1,"english-league-championship",2012
+3162,"2013-03-09","Watford",1,"Blackpool",2,"english-league-championship",2012
+3163,"2013-03-05","Bristol City",0,"Brighton & Hove Albion",0,"english-league-championship",2012
+3164,"2013-03-09","Nottingham Forest",3,"Wolverhampton Wanderers",1,"english-league-championship",2012
+3165,"2013-03-05","Cardiff City",1,"Derby County",1,"english-league-championship",2012
+3166,"2013-03-05","Birmingham City",1,"Blackpool",1,"english-league-championship",2012
+3167,"2013-03-05","Burnley",1,"Barnsley",1,"english-league-championship",2012
+3168,"2013-03-09","Peterborough United",0,"Ipswich Town",0,"english-league-championship",2012
+3169,"2013-03-05","Huddersfield Town",2,"Middlesbrough",1,"english-league-championship",2012
+3170,"2013-03-05","Leicester City",1,"Leeds United",1,"english-league-championship",2012
+3171,"2013-03-05","Millwall",0,"Wolverhampton Wanderers",2,"english-league-championship",2012
+3172,"2013-03-05","Bolton Wanderers",1,"Blackburn Rovers",0,"english-league-championship",2012
+3173,"2013-03-05","Peterborough United",2,"Charlton Athletic",2,"english-league-championship",2012
+3174,"2013-03-02","Barnsley",2,"Bolton Wanderers",3,"english-league-championship",2012
+3175,"2013-03-02","Blackburn Rovers",2,"Peterborough United",3,"english-league-championship",2012
+3176,"2013-03-02","Leeds United",1,"Millwall",0,"english-league-championship",2012
+3177,"2013-03-05","Watford",2,"Sheffield Wednesday",1,"english-league-championship",2012
+3178,"2013-03-05","Nottingham Forest",1,"Ipswich Town",0,"english-league-championship",2012
+3179,"2013-03-05","Crystal Palace",4,"Hull City",2,"english-league-championship",2012
+3180,"2013-03-02","Brighton & Hove Albion",4,"Huddersfield Town",1,"english-league-championship",2012
+3181,"2013-03-02","Blackpool",0,"Bristol City",0,"english-league-championship",2012
+3182,"2013-02-26","Burnley",0,"Huddersfield Town",1,"english-league-championship",2012
+3183,"2013-03-02","Middlesbrough",2,"Cardiff City",1,"english-league-championship",2012
+3184,"2013-03-02","Ipswich Town",1,"Leicester City",0,"english-league-championship",2012
+3185,"2013-03-02","Hull City",5,"Birmingham City",2,"english-league-championship",2012
+3186,"2013-03-02","Charlton Athletic",0,"Burnley",1,"english-league-championship",2012
+3187,"2013-03-01","Wolverhampton Wanderers",1,"Watford",1,"english-league-championship",2012
+3188,"2013-03-02","Sheffield Wednesday",0,"Nottingham Forest",1,"english-league-championship",2012
+3189,"2013-03-01","Derby County",0,"Crystal Palace",1,"english-league-championship",2012
+3190,"2013-02-26","Leicester City",3,"Blackburn Rovers",0,"english-league-championship",2012
+3191,"2013-02-26","Bolton Wanderers",1,"Peterborough United",0,"english-league-championship",2012
+3192,"2013-02-23","Blackburn Rovers",0,"Leeds United",0,"english-league-championship",2012
+3193,"2013-02-23","Brighton & Hove Albion",1,"Burnley",0,"english-league-championship",2012
+3194,"2013-02-23","Charlton Athletic",0,"Nottingham Forest",2,"english-league-championship",2012
+3195,"2013-02-23","Blackpool",0,"Leicester City",0,"english-league-championship",2012
+3196,"2013-02-23","Huddersfield Town",0,"Ipswich Town",0,"english-league-championship",2012
+3197,"2013-02-23","Bristol City",5,"Barnsley",3,"english-league-championship",2012
+3198,"2013-02-24","Wolverhampton Wanderers",1,"Cardiff City",2,"english-league-championship",2012
+3199,"2013-02-23","Bolton Wanderers",4,"Hull City",1,"english-league-championship",2012
+3200,"2013-02-23","Sheffield Wednesday",1,"Crystal Palace",0,"english-league-championship",2012
+3201,"2013-02-23","Peterborough United",0,"Birmingham City",2,"english-league-championship",2012
+3202,"2013-02-23","Watford",2,"Derby County",1,"english-league-championship",2012
+3203,"2013-02-20","Leeds United",2,"Blackpool",0,"english-league-championship",2012
+3204,"2013-02-19","Burnley",0,"Middlesbrough",0,"english-league-championship",2012
+3205,"2013-02-19","Derby County",1,"Bolton Wanderers",1,"english-league-championship",2012
+3206,"2013-02-19","Cardiff City",0,"Brighton & Hove Albion",2,"english-league-championship",2012
+3207,"2013-02-19","Birmingham City",0,"Sheffield Wednesday",0,"english-league-championship",2012
+3208,"2013-02-23","Middlesbrough",1,"Millwall",2,"english-league-championship",2012
+3209,"2013-02-19","Barnsley",2,"Wolverhampton Wanderers",1,"english-league-championship",2012
+3210,"2013-02-19","Hull City",2,"Blackburn Rovers",0,"english-league-championship",2012
+3211,"2013-02-19","Ipswich Town",0,"Watford",2,"english-league-championship",2012
+3212,"2013-02-19","Leicester City",1,"Charlton Athletic",2,"english-league-championship",2012
+3213,"2013-02-19","Nottingham Forest",6,"Huddersfield Town",1,"english-league-championship",2012
+3214,"2013-02-16","Cardiff City",2,"Bristol City",1,"english-league-championship",2012
+3215,"2013-02-16","Birmingham City",0,"Watford",4,"english-league-championship",2012
+3216,"2013-02-16","Derby County",0,"Wolverhampton Wanderers",0,"english-league-championship",2012
+3217,"2013-02-19","Millwall",1,"Peterborough United",5,"english-league-championship",2012
+3218,"2013-02-19","Crystal Palace",2,"Bristol City",1,"english-league-championship",2012
+3219,"2013-02-16","Crystal Palace",4,"Middlesbrough",1,"english-league-championship",2012
+3220,"2013-02-16","Ipswich Town",1,"Blackpool",0,"english-league-championship",2012
+3221,"2013-02-16","Hull City",1,"Charlton Athletic",0,"english-league-championship",2012
+3222,"2013-02-16","Nottingham Forest",1,"Bolton Wanderers",1,"english-league-championship",2012
+3223,"2013-02-09","Bolton Wanderers",2,"Burnley",1,"english-league-championship",2012
+3224,"2013-02-09","Blackburn Rovers",1,"Ipswich Town",0,"english-league-championship",2012
+3225,"2013-02-09","Blackpool",2,"Millwall",1,"english-league-championship",2012
+3226,"2013-02-12","Hull City",2,"Derby County",1,"english-league-championship",2012
+3227,"2013-02-12","Brighton & Hove Albion",1,"Blackburn Rovers",1,"english-league-championship",2012
+3228,"2013-02-09","Bristol City",2,"Nottingham Forest",0,"english-league-championship",2012
+3229,"2013-02-09","Charlton Athletic",1,"Birmingham City",1,"english-league-championship",2012
+3230,"2013-02-12","Middlesbrough",1,"Leeds United",0,"english-league-championship",2012
+3231,"2013-02-09","Huddersfield Town",0,"Cardiff City",0,"english-league-championship",2012
+3232,"2013-02-09","Middlesbrough",2,"Barnsley",3,"english-league-championship",2012
+3233,"2013-02-02","Birmingham City",2,"Nottingham Forest",1,"english-league-championship",2012
+3234,"2013-02-02","Blackpool",1,"Barnsley",2,"english-league-championship",2012
+3235,"2013-02-08","Watford",2,"Crystal Palace",2,"english-league-championship",2012
+3236,"2013-02-02","Blackburn Rovers",2,"Bristol City",0,"english-league-championship",2012
+3237,"2013-02-09","Sheffield Wednesday",2,"Derby County",2,"english-league-championship",2012
+3238,"2013-02-09","Wolverhampton Wanderers",2,"Leeds United",2,"english-league-championship",2012
+3239,"2013-02-09","Peterborough United",2,"Leicester City",1,"english-league-championship",2012
+3240,"2013-02-09","Brighton & Hove Albion",1,"Hull City",0,"english-league-championship",2012
+3241,"2013-02-02","Crystal Palace",2,"Charlton Athletic",1,"english-league-championship",2012
+3242,"2013-02-02","Derby County",3,"Huddersfield Town",0,"english-league-championship",2012
+3243,"2013-02-02","Peterborough United",2,"Burnley",2,"english-league-championship",2012
+3244,"2013-02-02","Leeds United",0,"Cardiff City",1,"english-league-championship",2012
+3245,"2013-02-02","Ipswich Town",4,"Middlesbrough",0,"english-league-championship",2012
+3246,"2013-02-02","Millwall",0,"Hull City",1,"english-league-championship",2012
+3247,"2013-02-02","Sheffield Wednesday",3,"Brighton & Hove Albion",1,"english-league-championship",2012
+3248,"2013-01-30","Huddersfield Town",1,"Crystal Palace",0,"english-league-championship",2012
+3249,"2013-02-02","Watford",2,"Bolton Wanderers",1,"english-league-championship",2012
+3250,"2013-01-31","Leicester City",2,"Wolverhampton Wanderers",1,"english-league-championship",2012
+3251,"2013-01-29","Barnsley",2,"Millwall",0,"english-league-championship",2012
+3252,"2013-01-29","Bristol City",2,"Watford",0,"english-league-championship",2012
+3253,"2013-01-26","Bristol City",2,"Ipswich Town",1,"english-league-championship",2012
+3254,"2013-01-26","Burnley",1,"Birmingham City",2,"english-league-championship",2012
+3255,"2013-01-26","Charlton Athletic",1,"Sheffield Wednesday",2,"english-league-championship",2012
+3256,"2013-01-19","Birmingham City",2,"Brighton & Hove Albion",2,"english-league-championship",2012
+3257,"2013-01-26","Wolverhampton Wanderers",1,"Blackpool",2,"english-league-championship",2012
+3258,"2013-01-26","Nottingham Forest",0,"Watford",3,"english-league-championship",2012
+3259,"2013-01-22","Blackburn Rovers",1,"Brighton & Hove Albion",1,"english-league-championship",2012
+3260,"2013-01-19","Derby County",1,"Nottingham Forest",1,"english-league-championship",2012
+3261,"2013-01-19","Blackburn Rovers",1,"Charlton Athletic",2,"english-league-championship",2012
+3262,"2013-01-19","Crystal Palace",0,"Bolton Wanderers",0,"english-league-championship",2012
+3263,"2013-01-19","Ipswich Town",1,"Barnsley",1,"english-league-championship",2012
+3264,"2013-01-19","Millwall",0,"Burnley",2,"english-league-championship",2012
+3265,"2013-01-19","Peterborough United",1,"Hull City",1,"english-league-championship",2012
+3266,"2013-01-19","Blackpool",1,"Cardiff City",2,"english-league-championship",2012
+3267,"2013-01-19","Leeds United",1,"Bristol City",0,"english-league-championship",2012
+3268,"2013-01-18","Leicester City",1,"Middlesbrough",0,"english-league-championship",2012
+3269,"2013-01-12","Barnsley",2,"Leeds United",0,"english-league-championship",2012
+3270,"2013-01-19","Sheffield Wednesday",0,"Wolverhampton Wanderers",0,"english-league-championship",2012
+3271,"2013-01-19","Watford",4,"Huddersfield Town",0,"english-league-championship",2012
+3272,"2013-01-12","Bolton Wanderers",1,"Millwall",1,"english-league-championship",2012
+3273,"2013-01-12","Brighton & Hove Albion",2,"Derby County",1,"english-league-championship",2012
+3274,"2013-01-12","Nottingham Forest",2,"Peterborough United",1,"english-league-championship",2012
+3275,"2013-01-12","Bristol City",0,"Leicester City",4,"english-league-championship",2012
+3276,"2013-01-12","Hull City",1,"Sheffield Wednesday",3,"english-league-championship",2012
+3277,"2013-01-12","Charlton Athletic",2,"Blackpool",1,"english-league-championship",2012
+3278,"2013-01-12","Huddersfield Town",1,"Birmingham City",1,"english-league-championship",2012
+3279,"2013-01-12","Middlesbrough",1,"Watford",2,"english-league-championship",2012
+3280,"2013-01-12","Cardiff City",0,"Ipswich Town",0,"english-league-championship",2012
